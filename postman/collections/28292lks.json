@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "bb718bea-ddb1-4238-9b65-36f35096ab01",
-		"name": "28292lks",
+		"name": "34292lks",
 		"description": "This is a sample server Petstore server. For this sample, you can use the api key `special-key` to test the authorization filters.",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_uid": "896503-bb718bea-ddb1-4238-9b65-36f35096ab01"
