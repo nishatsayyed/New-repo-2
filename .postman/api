@@ -1,10 +1,11 @@
-id = 47c163d3-5805-451d-a20c-5a38e333f028
+id = feef3d5f-f78c-46eb-8f1f-d4cba623a74b
 
 [relations]
 
 [relations.collections]
 rootDirectory = postman/collections
-files[] = {"id":"1675a545-f3d8-4ee6-bff6-b7ff9767f2a2","path":"main collection.json","metaData":{}}
+files[] = {"id":"23345956-4a0190e5-4149-48bd-bc29-d8cf1dbe7092","path":"Canary collection.json","metaData":{}}
+files[] = {"id":"896503-5c7819ee-7a1a-4454-9286-5c837fa983b6","path":"main collection.json","metaData":{}}
 
 [relations.collections.metaData]
 
